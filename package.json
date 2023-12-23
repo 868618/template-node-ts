@@ -1,6 +1,6 @@
 {
   "name": "template-node-ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@types/node": "^20.10.5",
     "eslint-define-config": "^2.0.0",
     "eslint-plugin-prettier": "^5.0.1",
     "prettier": "^3.1.1",
